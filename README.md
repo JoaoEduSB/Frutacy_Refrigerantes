@@ -5,5 +5,5 @@
 <br>
 Frutacy é aquele projeto que apesar da dificuldade, eu faria novamente!
 
-[Clique para ver!](https://www.figma.com/design/eDBxXSXCIJLZIccPZWaMCY/Projeto-6?node-id=0%3A1&t=TLwdPZa7Jqe7VqT3-1)
+[Clique para ver!](https://www.figma.com/design/eDBxXSXCIJLZIccPZWaMCY/Projeto-6?node-id=0%3A1&t=2QuNk7SGjqc9Cu8V-1)
 
